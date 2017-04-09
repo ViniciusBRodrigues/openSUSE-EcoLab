@@ -7,7 +7,7 @@
 |
 <b><a href="#ecolab-resources">Resources</a></b>
 |
-<b><a href="#download-and-online-testdrive">Download</a></b>
+<b><a href="#download-and-online-test-drive">Download</a></b>
 |
 <b><a href="#documentation-and-installation-guide">Documentation</a></b>
 |
