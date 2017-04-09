@@ -29,27 +29,27 @@ EcoLab is a spin based on the openSUSE and GeckoLinux distribution. The goal is 
 - Based in the solid [openSUSE](https://www.opensuse.org/) Leap 42.1 system (64-bit x86);
 - Kernel 4.1 Long-term Support (LTS);
 - [AppArmor](https://en.opensuse.org/SDB:AppArmor) and [Firewall](https://en.opensuse.org/SuSEfirewall2);
-- [Cinnamon](https://en.wikipedia.org/wiki/Cinnamon_(software)) desktop environment ---- extremely polished and customizable; 
+- [Cinnamon](https://en.wikipedia.org/wiki/Cinnamon_(software)) desktop environment -- extremely polished and customizable; 
 - Multimedia codecs (including MP3, DVDs etc.);
 - Optimal power management with [TLP](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html);
 - [Packman](http://packman.links2linux.org/) repository;
-- [Gimp](https://www.gimp.org/) and [Inkscape](https://inkscape.org/) ---- image manipulation programs;
+- [Gimp](https://www.gimp.org/) and [Inkscape](https://inkscape.org/) -- image manipulation programs;
 - Office suite [LibreOffice](https://www.libreoffice.org/);
-- [VLC](www.videolan.org/vlc/) ---- multimedia player;
-- [Rhymtmbox](https://wiki.gnome.org/Apps/Rhythmbox) ---- music playing application;
-- [Audacity](http://www.audacityteam.org/) ---- audio software for multi-track recording and editing.
+- [VLC](www.videolan.org/vlc/) -- multimedia player;
+- [Rhymtmbox](https://wiki.gnome.org/Apps/Rhythmbox) -- music playing application;
+- [Audacity](http://www.audacityteam.org/) -- audio software for multi-track recording and editing.
 
 ## EcoLab resources
 
 #### Current version: 0.0.4
 
-- [R](https://www.r-project.org/) and the user interface [RStudio](https://www.rstudio.com/) ----  a strongly functional language and environment to statistically explore data sets;
-- [Octave](https://www.gnu.org/software/octave/) ----  language for numerical computations;
+- [R](https://www.r-project.org/) and the user interface [RStudio](https://www.rstudio.com/) -- a strongly functional language and environment to statistically explore data sets;
+- [Octave](https://www.gnu.org/software/octave/) -- language for numerical computations;
 - [Texlive](https://www.tug.org/texlive/) and the LaTeX front end [Kile](kile.sourceforge.net/);
 - [JabRef](https://www.jabref.org/) for managing [bibtex](http://www.bibtex.org/) (.bib) databases.
-- [ImageJ](http://imagej.net) ---- image processing program designed for scientific multidimensional images;
-- [LabPlot](http://labplot.sourceforge.net/), [SciDAVis](scidavis.sourceforge.net/) and [Grace](http://plasma-gate.weizmann.ac.il/Grace/) ---- applications for interactive graphing and analysis of scientific data;
-- [VikingGPS](https://sourceforge.net/projects/viking/) and [GPSBabel](www.gpsbabel.org/) ----  editors to convert and analyze GPS data;
+- [ImageJ](http://imagej.net) -- image processing program designed for scientific multidimensional images;
+- [LabPlot](http://labplot.sourceforge.net/), [SciDAVis](scidavis.sourceforge.net/) and [Grace](http://plasma-gate.weizmann.ac.il/Grace/) -- applications for interactive graphing and analysis of scientific data;
+- [VikingGPS](https://sourceforge.net/projects/viking/) and [GPSBabel](www.gpsbabel.org/) --  editors to convert and analyze GPS data;
 - [Python](https://www.python.org/) programming language including: [Biopython](biopython.org/) for computational molecular biology; [Pandas](pandas.pydata.org/) and [MatPlot](http://matplotlib.org/index.html) for data analisys and plotting library;
 - Some compilers (gcc, fortran, etc).
 
