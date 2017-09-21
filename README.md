@@ -16,8 +16,10 @@
 <b><a href="#screenshots">Screenshots</a></b>
 </p>
 
+<p align="center">
 [![DOI](https://zenodo.org/badge/73518662.svg)](https://zenodo.org/badge/latestdoi/73518662)
-
+<p>
+ 
 ---
 
 EcoLab is a spin based on the openSUSE and GeckoLinux distribution. The goal is to provide to ecological and biological researchers better experience when using a Linux distribution.
