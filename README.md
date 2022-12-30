@@ -1,8 +1,4 @@
 <p align="center">
-<img src="https://s10.postimg.org/prf5rhb49/logo4.png" width="450">
-</p>
-
-<p align="center">
 <b><a href="#features">Features</a></b>
 |
 <b><a href="#ecolab-resources">Resources</a></b>
@@ -63,8 +59,9 @@ EcoLab is a spin based on the openSUSE and GeckoLinux distribution. The goal is 
 
 ###### You can download through the Suse Studio. You can also test online in Suse Studio before you download (requires login).
 
-[<img  alt="Download" src="https://s9.postimg.org/f9ebl248v/dwonload.png" width="160">](https://susestudio.com/a/gKygkm/opensuse-ecolab?a=download&f=iso) [<img  alt="Download" src="https://s10.postimg.org/z3x6wir5l/testdrive.png" width="160">](hhttps://susestudio.com/a/gKygkm/opensuse-ecolab/start_testdrive?version=0.0.4)
+[<img  alt="Download" src="https://cdn.pixabay.com/photo/2016/12/18/13/45/download-1915753_960_720.png" width="160">](hhttps://susestudio.com/a/gKygkm/opensuse-ecolab/start_testdrive?version=0.0.4)
 
+Obs: openSUSE is migrating the service to Studio Express, so the link could be not available for now.
 
 ```
 root login: linux
@@ -89,22 +86,6 @@ root password: linux
 [Online](https://doc.opensuse.org/documentation/leap/startup/html/book.opensuse.startup/)
 
 [PDF](https://doc.opensuse.org/documentation/leap/startup/book.opensuse.startup_color_en.pdf)
-
----
-
-## Get involved!
-
-Want to help? Awesome! 
-
-[<img  src="https://s22.postimg.org/sb5084gc1/email.png" width="70">](mailto:viniciusbrbio@gmail.com) [<img  src="https://s22.postimg.org/v6i3ezkc1/email2.png" width="70">](https://susestudio.com/a/gKygkm/opensuse-ecolab)
- 
- 
----
-
-
-## Screenshots
-
-<img src="https://s10.postimg.org/9k7b9esll/Captura_de_tela_de_2016_08_22_19_52_06.png" width="440"> <img src="https://s10.postimg.org/a3nlvjr7t/Captura_de_tela_de_2016_08_22_19_54_23.png" width="440">
 
 ###### Keywords: Ecology, biology, statistics, programming, scientific, linux
 
